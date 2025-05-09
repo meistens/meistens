@@ -1,4 +1,4 @@
-More of a hobby... doesn't mean FREE FREE!!!!!
+You tell me what to write here...
 
 ![](https://komarev.com/ghpvc/?username=meistens)
 
