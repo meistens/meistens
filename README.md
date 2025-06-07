@@ -2,9 +2,13 @@ You tell me what to write here...
 
 ![](https://komarev.com/ghpvc/?username=meistens)
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=meistens&show_icons=true&theme=dark)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meistens&layout=compact)
+![meistens's Stats](https://github-readme-stats.vercel.app/api?username=meistens&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true&card_width=400)
+
+![meistens's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meistens&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact&card_width=440)
+
+</div>
 
 
 <!---
